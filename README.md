@@ -2,6 +2,7 @@
 
 ## Purpose of this repository 
 -> Processing text data, applying tokenization, calculating term frequencies, generating a TF-IDF sparse matrix.
+
 -> This is a project to replace midterm exam made by Emirkan Beyaz
 
 This is a class ı did have take in 2023 - 2024 spring semester, given by Asst. Prof. TOLGA BERBER
