@@ -6,6 +6,7 @@
 -> This is a project to replace midterm exam made by Emirkan Beyaz
 
 This is a class ı did have take in 2023 - 2024 spring semester, given by Asst. Prof. TOLGA BERBER
+
 Named BGG - Bilgi Geri Getirimine Giriş = Introduction to information retrieval
 
 ## Summary of the Project
