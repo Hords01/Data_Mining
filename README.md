@@ -49,7 +49,7 @@ If you use this repository, any part of the code, or the provided materials in y
 
 ### 🔹 Dataset & Tokenizer Attribution
 
-The Turkish dataset and BPE tokenizer used in this project were created and provided by:
+The Turkish dataset and BPE tokenizer used in this project were provided by:
 
 > **Asst. Prof. Tolga Berber**, *"BPE Tokenizer and Turkish News Dataset"*,  
 > Karadeniz Technical University, Department of Statistics and Computer Science, 2024.  
